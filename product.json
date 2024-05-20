@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "name": "DJI AIR 3",
+        "price": 71990.00,
+        "image": "images/P-AIR 3.png"
+    },
+    {
+        "id": 2,
+        "name": "DJI MINI 3 PRO",
+        "price": 44999.00,
+        "image": "images/P-MINI 3 PRO.png"
+    },
+    {
+        "id": 3,
+        "name": "EOS-1D X Mark III",
+        "price": 439998.00,
+        "image": "images/P-1-D.png"
+    }
+    ,
+    {
+        "id": 4,
+        "name": "EOS R100",
+        "price": 42998.00,
+        "image": "images/P-R100.png"
+    },
+    {
+        "id": 5,
+        "name": "EOS M50 MARK II",
+        "price": 42998.00,
+        "image": "images/P-M50.png"
+    },
+    {
+        "id": 6,
+        "name": "SONY ALPHA 7",
+        "price": 15599.00,
+        "image": "images/P-ALPHA7.png"
+    },
+    {
+        "id": 7,
+        "name": "SONY ZV E10",
+        "price": 33899.00,
+        "image": "images/P-ZV-E10.png"
+    },
+    {
+        "id": 8,
+        "name": "FUJIFILM XH2S",
+        "price": 146500.00,
+        "image": "images/P-XH2S.png"
+    },
+    {
+        "id": 9,
+        "name": "EOS M50 MARK II",
+        "price": 146500.00,
+        "image": "images/P-XH2S.png"
+    }
+]
